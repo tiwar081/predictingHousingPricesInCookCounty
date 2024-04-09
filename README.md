@@ -1,4 +1,4 @@
-# predictingHousingPricesInCookCounty
+# Socioeconomically Equitable Housing Prices Prediction
 
 The dataset I worked with in this project comes from the Cook County Assessor’s Office (CCAO) in Illinois, a government institution that determines property taxes across most of Chicago’s metropolitan area and its nearby suburbs. In the United States, all property owners are required to pay property taxes, which are then used to fund public services including education, road maintenance, and sanitation. These property tax assessments are based on property values estimated using statistical models that consider multiple factors, such as real estate value and construction cost.
 
